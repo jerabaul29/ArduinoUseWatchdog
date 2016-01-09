@@ -1,6 +1,6 @@
 # ArduinoUseWatchdog
 
-Those files, together with the following post on my webiste (ADD LINK), show you how you can use the Arduino watchdog to prevent hangs in your code, to put your board in the lowest power mode for energy savings while still waking it up periodically, and to do both simulaneously.
+The files in the ArduinoCode folder, together with the following post on my webiste (ADD LINK), show you how you can use the Arduino watchdog to prevent hangs in your code, to put your board in the lowest power mode for energy savings while still waking it up periodically, and to do both simulaneously.
 
 # Use your watchdog to prevent code hangs
 
