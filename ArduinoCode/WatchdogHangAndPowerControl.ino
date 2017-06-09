@@ -87,9 +87,6 @@ void sleep(int ncycles)
  
   // When awake, disable sleep mode
   sleep_disable();
-  
-  // we have slept one time more
-  nbr_remaining = nbr_remaining - 1;
  
   }
  
